@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Security Education on Will Woodson</title>
+    <link>https://williamwoodson.com/tags/security-education/</link>
+    <description>Recent content in Security Education on Will Woodson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016-2017 Will Woodson</copyright>
+    <lastBuildDate>Sun, 12 Jun 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/security-education/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Minecraft Network Defense</title>
+      <link>https://williamwoodson.com/project/minecraft-network-defense/</link>
+      <pubDate>Sun, 12 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://williamwoodson.com/project/minecraft-network-defense/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
