@@ -7,8 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016-2018 Will Woodson</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/post/" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="https://williamwoodson.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
     
   </channel>
 </rss>

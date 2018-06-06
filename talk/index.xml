@@ -7,8 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016-2018 Will Woodson</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/talk/" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="https://williamwoodson.com/talk/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Minecraft Network Defense: Security Education with Competitive Minecraft Scenarios</title>
@@ -16,17 +18,8 @@
       <pubDate>Sat, 05 Nov 2016 00:00:00 +0000</pubDate>
       
       <guid>https://williamwoodson.com/talk/minecraft-network-defense/</guid>
-      <description>&lt;p&gt;Presented at &lt;a href=&#34;http://www.securitybsides.com/w/page/107882615/BSides%20Denver%202016&#34; target=&#34;_blank&#34;&gt;BSides Denver 2016&lt;/a&gt; (2016-10-08), &lt;a href=&#34;http://www.securitybsides.com/w/page/112296094/BSidesDFW_2016&#34; target=&#34;_blank&#34;&gt;BSides DFW 2016&lt;/a&gt; (2016-11-05), &lt;a href=&#34;http://www.securitybsides.com/w/page/107983625/BSidesJackson%202016&#34; target=&#34;_blank&#34;&gt;BSides Jackson 2016&lt;/a&gt; (2016-11-12).&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://williamwoodson.com/documents/Minecraft_Network_Defense_BSidesDFW.pdf&#34;&gt;Slides&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/wjwoodson/minecraft-vuln-mgt/&#34; target=&#34;_blank&#34;&gt;Project on GitHub&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/wjwoodson/minecraft-vuln-mgt/raw/master/resources/minecraft-network-defense-handout.pdf&#34; target=&#34;_blank&#34;&gt;Handout - Minecraft Network Defense&lt;/a&gt; (PDF)&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://williamwoodson.com/img/minecraft-network-defense-handout.png&#34; alt=&#34;Handout - Minecraft Network Defense&#34; /&gt;&lt;/p&gt;
-</description>
+      <description>Presented at BSides Denver 2016 (2016-10-08), BSides DFW 2016 (2016-11-05), BSides Jackson 2016 (2016-11-12).
+Handout - Minecraft Network Defense (PDF)</description>
     </item>
     
     <item>
@@ -35,12 +28,7 @@
       <pubDate>Sat, 21 May 2016 00:00:00 +0000</pubDate>
       
       <guid>https://williamwoodson.com/talk/phishing-social-networks/</guid>
-      <description>&lt;p&gt;Presented at &lt;a href=&#34;http://www.securitybsides.com/w/page/105560040/BSides%20San%20Antonio%202016&#34; target=&#34;_blank&#34;&gt;BSides San Antonio 2016&lt;/a&gt; (2016-05-21).&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://williamwoodson.com/documents/Social_Network_Phishing_BSidesSATX.pdf&#34;&gt;Slides&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>Presented at BSides San Antonio 2016 (2016-05-21).</description>
     </item>
     
   </channel>

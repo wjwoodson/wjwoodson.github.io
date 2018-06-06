@@ -7,33 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016-2018 Will Woodson</copyright>
-    <lastBuildDate>Mon, 21 Nov 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/project/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://williamwoodson.com/project/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
-      <title>Squid Cache Extractor</title>
-      <link>https://williamwoodson.com/project/squid-cache-extractor/</link>
-      <pubDate>Mon, 21 Nov 2016 00:00:00 +0000</pubDate>
+      <title>Cloud Control Assessment Framework</title>
+      <link>https://williamwoodson.com/project/cloud-control-assessment-framework/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://williamwoodson.com/project/squid-cache-extractor/</guid>
+      <guid>https://williamwoodson.com/project/cloud-control-assessment-framework/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Minecraft Network Defense</title>
       <link>https://williamwoodson.com/project/minecraft-network-defense/</link>
-      <pubDate>Sun, 12 Jun 2016 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://williamwoodson.com/project/minecraft-network-defense/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Cloud Control Assessment Framework</title>
-      <link>https://williamwoodson.com/project/cloud-control-assessment-framework/</link>
-      <pubDate>Sun, 06 Mar 2016 00:00:00 +0000</pubDate>
+      <title>Squid Cache Extractor</title>
+      <link>https://williamwoodson.com/project/squid-cache-extractor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://williamwoodson.com/project/cloud-control-assessment-framework/</guid>
+      <guid>https://williamwoodson.com/project/squid-cache-extractor/</guid>
       <description></description>
     </item>
     
