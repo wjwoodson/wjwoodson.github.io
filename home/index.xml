@@ -6,8 +6,8 @@
     <description>Recent content in Homes on Will Woodson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2016-2018 Will Woodson</copyright>
-    <lastBuildDate>Tue, 05 Jun 2018 00:00:00 -0600</lastBuildDate>
+    <copyright>&amp;copy; 2016-2019 Will Woodson</copyright>
+    <lastBuildDate>Sat, 05 Jan 2019 00:00:00 -0700</lastBuildDate>
     
 	<atom:link href="https://williamwoodson.com/home/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,12 +15,11 @@
     <item>
       <title></title>
       <link>https://williamwoodson.com/home/about/</link>
-      <pubDate>Tue, 05 Jun 2018 00:00:00 -0600</pubDate>
+      <pubDate>Sat, 05 Jan 2019 00:00:00 -0700</pubDate>
       
       <guid>https://williamwoodson.com/home/about/</guid>
-      <description>About Me Information Security Analyst InfoSec Person infosec thought thinker
-Person doing cybersecurity and related things.
-I am currently a Senior Security Engineer at Threat X, Inc., previously at other places in slightly different roles. I enjoy participating in security conferences and pretending I know how to perform and/or present research.</description>
+      <description>About Me Information Security Analyst InfoSec Person infosec thought thinker Person doing security things.
+I am currently a Senior Security Engineer at ThreatX, previously employed at other places in slightly different roles. I enjoy participating in security conferences and pretending I know how to perform and/or present research.</description>
     </item>
     
     <item>
